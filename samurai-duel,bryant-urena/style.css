@@ -1,3 +1,4 @@
 body {padding:0; margin:0; background: #dc6601; font-family:"Comic Sans MS";}
 #project 
-Img {width:45%;}
+Img {
+  width: 45%;}
